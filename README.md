@@ -55,6 +55,10 @@ pnpm run start:dev
 
 The API will be available at `http://localhost:YOUR-HTTP-PORT` by default.
 
+## Swagger API Documentation
+
+The Swagger API will be available at `http://localhost:YOUR-HTTP-PORT/api` by default.
+
 ## API Endpoints
 
 - `POST /auth/login` - User login
